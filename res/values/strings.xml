@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">VaniSource</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">VaniSource</string>
+    <string name="btnBack">Back</string>
+    <string name="chkBoxMakeAvailableOffline">Make Available Offline</string>
+    <string name="loading">Loading...</string>
+    <string name="please_wait">Please Wait</string>
+
+</resources>

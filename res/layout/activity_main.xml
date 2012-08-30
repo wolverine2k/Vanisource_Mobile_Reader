@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+	<WebView
+	    android:id="@+id/webview_main"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"	
+	    tools:context=".MainActivity" />
+<!--    
+	<Button
+	    android:id="@+id/btnBack"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:text="@string/btnBack" />
+  
+	<CheckBox
+	    android:id="@+id/chkBoxAvailableOffline"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentTop="true"
+	    android:layout_toRightOf="@+id/btnBack"
+	    android:text="@string/chkBoxMakeAvailableOffline" />
+-->		
+</RelativeLayout>
